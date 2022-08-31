@@ -1,0 +1,2 @@
+C:\Users\JONATH~1\AppData\Local\Temp\ccZjH7I4.o	Productos.cpp:(.text+0x1572): undefined reference to `mostrar()'
+C:\Users\JonathanY\Desktop\Proyecto Final\Crear Productos\collect2.exe	[Error] ld returned 1 exit status
